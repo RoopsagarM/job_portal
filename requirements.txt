@@ -2,4 +2,9 @@ streamlit==1.25.0
 pandas==1.5.3
 numpy==1.23.5
 scikit-learn==1.2.2
-pillow==9.5.0
+matplotlib==3.7.1
+seaborn==0.12.2
+altair==4.2.2
+pydeck==0.8.0
+protobuf==3.20.3
+watchdog==2.1.9
